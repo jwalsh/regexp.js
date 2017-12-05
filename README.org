@@ -1,0 +1,5 @@
+* Background
+
+Implementation of
+
+  https://nickdrane.com/build-your-own-regex/
